@@ -3,7 +3,7 @@
 This project involves integrating a TM4C123GH6PM microcontroller unit (MCU) with an RTC (Real-Time Clock) module using SPI (Serial Peripheral Interface) communication. The RTC module is designed to provide accurate time and date information.
 
 ## Components:
-###TM4C123GH6PM MCU:
+### TM4C123GH6PM MCU:
 
 A powerful microcontroller unit with versatile features.
 Acts as the main controller for the project.
